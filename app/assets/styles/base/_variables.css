@@ -1,0 +1,21 @@
+/*=== Variables ===*/
+:root {
+  --text-color: #FFFFFF;
+  --text-dark-color: #202020;
+
+  --bcg-green: #ebebeb;
+  --bcg-lightgreen: #a6b3b3;
+  --bcg-lightbrown: #b0a7a4;
+  --bcg-lightblue: #a3abb1;
+
+  --bcg-fill-color: var(--text-color);
+  
+  /*--header-height: 100px;*/
+  
+  /*--font-headings: Georgia, serif;*/
+
+  --v-spacing: 10vh;
+  --h-gutter: 6.6vw;
+
+  --easing: cubic-bezier(0.5, 0.7, 0.4, 1);
+}
